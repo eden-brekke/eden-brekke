@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 I am a Full Stack software developer, virology research scientist, and life long learner who thrives in fast paced environments. I am passionate about science and using the power of research and technology to push for the betterment of society and the world. I want to use my knowledge and drive to push for an impactful change. My background is in microbiology and mentorship.
 
-##  Languages
+## Languages
 
 |  |  |  |  |
 | ----------- | ----------- | ----------- | ----------- |
@@ -25,20 +25,29 @@ I am a Full Stack software developer, virology research scientist, and life long
 
 ## Projects
 
+___
 - Tech Spotlight
-  - [Repo]()
-  - [Jupyter Notebook]()
+  - A Web Scraper targeting Indeed.com built with Python. We wanted a tool that would grab the frequency at which technology terminology pops up. We’ve plotted the term occurrence data on a Jupyter notebook.
+  - [Repo](https://github.com/regex-rejects/tech-spotlight)
+  - [Jupyter Notebook](https://www.kaggle.com/code/edenbrekke/tech-spotlight-indeed-data-18may2022/notebook)
 - Smells Like Devs Cooking
-  - [Front End Repo]()
-  - [Back End Repo]()
+  - A Cooking Blog where you can create a user, login and then post your own recipes. It was created using Next.JS and TailwindCSS in the front end, and Django Rest Framework, ElephantSQL and deployed with Docker in the backend.
+  - [Front End Repo](https://github.com/The-Spice-Devs/Smells-Like-Devs-Cooking-Frontend)
+  - [Back End Repo](https://github.com/The-Spice-Devs/Smells-Like-Devs-Cooking-API)
 - CODLE
-  - [Repo]()
+  - A replica of WORDL built with JavaScript, HTML, and CSS that allows you to guess 5-letter code terminology, includes a description of the term when guessed, allowing for a fun interactive study guide.
+  - [Repo](https://github.com/Team-Salt-Lake-City/code-wordle)
 - YourSpace
-  - [Front End Repo]()
-  - [Back end Repo]()
-- [Python Data Structures and Algorithms]()
+  - A play on old school MySpace that allows users to search for musics through the Itunes API, preview the song, and save it to their profile for later. They can view the saved songs on their profile and add personal comments to each song they've saved.
+  - [Front End Repo](https://github.com/the-golden-order/your-space)
+  - [Back end Repo](https://github.com/the-golden-order/your-space-server)
+- [Python Data Structures and Algorithms](https://github.com/eden-brekke/python-data-structures-and-algorithms/tree/main/python)
+___
+  
+<br>
 
 ## Tools
+
 | | | |
 | ----------- | ----------- | ----------- |
 | <img src="assets/react.png" width=50/> React | <img src="assets/vscode.png" width=50/> Visual Studio Code | <img src="assets/windows.png" width=50/> WindowsOS |
@@ -49,8 +58,11 @@ I am a Full Stack software developer, virology research scientist, and life long
 | | | |
 
 
+<br>
 
 ## Hobbies / Interests
+
+___
 
 - Video games
 - Science
@@ -59,9 +71,12 @@ I am a Full Stack software developer, virology research scientist, and life long
 - Yoga
 - Animals
 
+<br>
 
 ## Connect with me
 
-  &nbsp; <img src="assets/linkedin.png" width=20/> &nbsp;&nbsp; [Linkedin]()
+___
+
+  &nbsp; <img src="assets/linkedin.png" width=20/> &nbsp;&nbsp; [Linkedin](https://www.linkedin.com/in/eden-brekke/)
 
   &nbsp; <img src="assets/gmail.png" width=20/> &nbsp;&nbsp; eden.lorrai@gmail.com
