@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header img](./assets/banner.png)
+![header img](./assets/header.png)
 
 ## 🎉 &nbsp; Hey There! I’m Eden, pleased to have you here!
 
