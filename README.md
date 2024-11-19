@@ -59,10 +59,6 @@ ___
   </tr>
 </table>
 
-
-
-
-
 ___
 
 
@@ -71,15 +67,11 @@ ___
 <div align="left" style="margin-bottom: 30px;">
   <img height="283" src="https://github-readme-stats-pi-six-31.vercel.app/api/top-langs/?username=eden-brekke&layout=donut&theme=radical&size_weight=0.5&count_weight=0.5&card_width=321" alt="Top Languages"/>
 </div>
-
 <br>
-
 <div align="left" style="margin-bottom: 30px;">
   <img height="200" src="https://github-readme-stats-pi-six-31.vercel.app/api?username=eden-brekke&show_icons=true&theme=radical&card_width=320" alt="Eden's GitHub Stats"/>
 </div>
-
 <br>
-
 <div align="left" style="margin-bottom: 30px;">
   <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=eden-brekke&theme=radical&card_width=384" alt="Streak Stats"/>
 </div>
@@ -98,8 +90,6 @@ ___
 |<img src="assets/vercel.png" width=50> Vercel | <img src="assets/netlify.png" width=50/> Netlify | <img src="assets/heroku.jpg" width=50> Heroku  |
 | | | |
 
-
-<br>
 ___
 
 ### Projects
@@ -123,15 +113,13 @@ ___
 - [Python Data Structures and Algorithms](https://github.com/eden-brekke/python-data-structures-and-algorithms/tree/main/python)
 ___
 
-<br>
 
 ### Hobbies / Interests
 ___
 
-- Video games 🎮 🖥️
-- Crochet 🧶 🪝
-- Animals 🐆 🪿
-- Cooking 🍳 🍲
-- Science 🧪 🔬
-
-<br>
+- 🎮 Video games 🖥️
+- 🧶 Crochet 🪝
+- 🐆 Animals 🪿
+- 🍳 Cooking 🍲
+- 🧪 Science 🔬
+___
