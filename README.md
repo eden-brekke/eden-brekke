@@ -68,15 +68,19 @@ ___
 
 ### ![GitHub Img](./assets/GitHub-Mark-32px.png) GitHub Stats
 
-<div align="left" style="margin-bottom: 70px;">
+<div align="left" style="margin-bottom: 30px;">
   <img height="283" src="https://github-readme-stats-pi-six-31.vercel.app/api/top-langs/?username=eden-brekke&layout=donut&theme=radical&size_weight=0.5&count_weight=0.5&card_width=321" alt="Top Languages"/>
 </div>
 
-<div align="left" style="margin-bottom: 70px;">
+<br>
+
+<div align="left" style="margin-bottom: 30px;">
   <img height="200" src="https://github-readme-stats-pi-six-31.vercel.app/api?username=eden-brekke&show_icons=true&theme=radical&card_width=320" alt="Eden's GitHub Stats"/>
 </div>
 
-<div align="left" style="margin-bottom: 70px;">
+<br>
+
+<div align="left" style="margin-bottom: 30px;">
   <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=eden-brekke&theme=radical&card_width=384" alt="Streak Stats"/>
 </div>
 
