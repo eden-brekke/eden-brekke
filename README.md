@@ -20,29 +20,73 @@ I am a Full Stack software developer, virology research scientist, and life long
 
 ### 🔗 Connect with me
 I love making connections, and would like to hear from you! Reach out to me on the following Social Accounts
-___
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eden-brekke/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flatt-square&logo=gmail&logoColor=white)](mailto:eden.lorrai@gmail.com)
 [![Dev Badge](https://img.shields.io/badge/-Dev-000000?style=flat-square&logo=Dev.to&logoColor=white)](https://eden-portfolio.vercel.app/)
 
-### 💻 Languages
 
-|  |  |  |  |  |
-| ----------- | ----------- | ----------- | ----------- | ----------- |
-<img src="assets/python.png" width=70/> | <img src="assets/js.png" width=70/> | <img src="assets/Typescript_logo_2020.png" width=70> |
-<img src="assets/html.png" width=70/> | <img src="assets/css.png" width=70/> | <a target="_blank" href="https://icons8.com/icon/59952/sql"><img src="assets/icons8-sql-64.png" width=70/></a>
-|  |  |  |  |  |
+### 💻 Languages
+___
+<br>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <div style="text-align: center;">
+    <img src="assets/python.png" width="70" alt="Python">
+    <br>
+    Python
+  </div>
+
+  <div style="text-align: center;">
+    <img src="assets/js.png" width="70" alt="JavaScript">
+    <br>
+    JavaScript
+  </div>
+
+  <div style="text-align: center;">
+    <img src="assets/Typescript_logo_2020.png" width="70" alt="TypeScript">
+    <br>
+    TypeScript
+  </div>
+
+  <div style="text-align: center;">
+    <img src="assets/html.png" width="70" alt="HTML">
+    <br>
+    HTML
+  </div>
+
+  <div style="text-align: center;">
+    <img src="assets/css.png" width="70" alt="CSS">
+    <br>
+    CSS
+  </div>
+
+  <div style="text-align: center;">
+    <a target="_blank" href="https://icons8.com/icon/59952/sql">
+      <img src="assets/icons8-sql-64.png" width="70" alt="SQL">
+    </a>
+    <br>
+    SQL
+  </div>
+</div>
+
+___
+
+<br>
+
+### ![GitHub Img](./assets/GitHub-Mark-32px.png) GitHub Stats
 
 <span>
 <img height=283 align="center" src="https://github-readme-stats-pi-six-31.vercel.app/api/top-langs/?username=eden-brekke&layout=donut&theme=radical&size_weight=0.5&count_weight=0.5&card_width=321" alt="Top Languages"/>
 </span>
 
-### ![GitHub Img](./assets/GitHub-Mark-32px.png) GitHub Stats
+<br>
 
 <span>
 <img height=200 align="center" src="https://github-readme-stats-pi-six-31.vercel.app/api?username=eden-brekke&show_icons=true&theme=radical&card_width=320" alt="Eden's GitHub Stats"/>
 </span>
+
+<br>
+
 <span>
 <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eden-brekke&theme=radical&card_width=384" alt="Streak Stats"/>
 </span>
@@ -90,10 +134,10 @@ ___
 
 ___
 
-- Video games
-- Science
-- Cooking
-- Crochet
-- Animals
+- Video games 🎮 🖥️
+- Crochet 🧶 🪝
+- Animals 🐆 🪿
+- Cooking 🍳 🍲
+- Science 🧪 🔬
 
 <br>
