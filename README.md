@@ -43,24 +43,28 @@ ___
     </td>
     <td>
       <div style="text-align: center;">
-        <img src="assets/Typescript_logo_2020.png" width="70" alt="TypeScript"><br>TypeScript
+        <img src="assets/Typescript_logo_2020.png" width="70" alt="TypeScript">
+        <div>TypeScript</div>
       </div>
     </td>
     <td>
       <div style="text-align: center;">
-        <img src="assets/html.png" width="70" alt="HTML"><br>HTML
+        <img src="assets/html.png" width="70" alt="HTML">
+        <div>HTML</div>
       </div>
     </td>
     <td>
       <div style="text-align: center;">
-        <img src="assets/css.png" width="70" alt="CSS"><br>CSS
+        <img src="assets/css.png" width="70" alt="CSS">
+        <div>CSS</div>
       </div>
     </td>
     <td>
       <div style="text-align: center;">
         <a target="_blank" href="https://icons8.com/icon/59952/sql">
           <img src="assets/icons8-sql-64.png" width="70" alt="SQL">
-        </a><br>SQL
+        </a>
+        <div>SQL</div>
       </div>
     </td>
   </tr>
@@ -74,15 +78,15 @@ ___
 
 ### ![GitHub Img](./assets/GitHub-Mark-32px.png) GitHub Stats
 
-<div align="left" style="margin-bottom: 20px;">
+<div align="left" style="margin-bottom: 30px;">
   <img height="283" src="https://github-readme-stats-pi-six-31.vercel.app/api/top-langs/?username=eden-brekke&layout=donut&theme=radical&size_weight=0.5&count_weight=0.5&card_width=321" alt="Top Languages"/>
 </div>
 
-<div align="left" style="margin-bottom: 20px;">
+<div align="left" style="margin-bottom: 30px;">
   <img height="200" src="https://github-readme-stats-pi-six-31.vercel.app/api?username=eden-brekke&show_icons=true&theme=radical&card_width=320" alt="Eden's GitHub Stats"/>
 </div>
 
-<div align="left" style="margin-bottom: 20px;">
+<div align="left" style="margin-bottom: 30px;">
   <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=eden-brekke&theme=radical&card_width=384" alt="Streak Stats"/>
 </div>
 
