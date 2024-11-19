@@ -31,52 +31,61 @@ ___
 <br>
 <table>
   <tr>
-    <td style="text-align: center;">
-      <img src="assets/python.png" width="70" alt="Python"><br>Python
+    <td>
+      <div style="text-align: center;">
+        <img src="assets/python.png" width="70" alt="Python"><br>Python
+      </div>
     </td>
-    <td style="text-align: center;">
-      <img src="assets/js.png" width="70" alt="JavaScript"><br>JavaScript
+    <td>
+      <div style="text-align: center;">
+        <img src="assets/js.png" width="70" alt="JavaScript"><br>JavaScript
+      </div>
     </td>
-    <td style="text-align: center;">
-      <img src="assets/Typescript_logo_2020.png" width="70" alt="TypeScript"><br>TypeScript
+    <td>
+      <div style="text-align: center;">
+        <img src="assets/Typescript_logo_2020.png" width="70" alt="TypeScript"><br>TypeScript
+      </div>
     </td>
-    <td style="text-align: center;">
-      <img src="assets/html.png" width="70" alt="HTML"><br>HTML
+    <td>
+      <div style="text-align: center;">
+        <img src="assets/html.png" width="70" alt="HTML"><br>HTML
+      </div>
     </td>
-    <td style="text-align: center;">
-      <img src="assets/css.png" width="70" alt="CSS"><br>CSS
+    <td>
+      <div style="text-align: center;">
+        <img src="assets/css.png" width="70" alt="CSS"><br>CSS
+      </div>
     </td>
-    <td style="text-align: center;">
-      <a target="_blank" href="https://icons8.com/icon/59952/sql">
-        <img src="assets/icons8-sql-64.png" width="70" alt="SQL">
-      </a><br>SQL
+    <td>
+      <div style="text-align: center;">
+        <a target="_blank" href="https://icons8.com/icon/59952/sql">
+          <img src="assets/icons8-sql-64.png" width="70" alt="SQL">
+        </a><br>SQL
+      </div>
     </td>
   </tr>
 </table>
 
 
 
+
 ___
 
-<br>
 
 ### ![GitHub Img](./assets/GitHub-Mark-32px.png) GitHub Stats
 
-<span>
-<img height=283 align="center" src="https://github-readme-stats-pi-six-31.vercel.app/api/top-langs/?username=eden-brekke&layout=donut&theme=radical&size_weight=0.5&count_weight=0.5&card_width=321" alt="Top Languages"/>
-</span>
+<div align="left" style="margin-bottom: 20px;">
+  <img height="283" src="https://github-readme-stats-pi-six-31.vercel.app/api/top-langs/?username=eden-brekke&layout=donut&theme=radical&size_weight=0.5&count_weight=0.5&card_width=321" alt="Top Languages"/>
+</div>
 
-<br>
+<div align="left" style="margin-bottom: 20px;">
+  <img height="200" src="https://github-readme-stats-pi-six-31.vercel.app/api?username=eden-brekke&show_icons=true&theme=radical&card_width=320" alt="Eden's GitHub Stats"/>
+</div>
 
-<span>
-<img height=200 align="center" src="https://github-readme-stats-pi-six-31.vercel.app/api?username=eden-brekke&show_icons=true&theme=radical&card_width=320" alt="Eden's GitHub Stats"/>
-</span>
+<div align="left" style="margin-bottom: 20px;">
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=eden-brekke&theme=radical&card_width=384" alt="Streak Stats"/>
+</div>
 
-<br>
-
-<span>
-<img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eden-brekke&theme=radical&card_width=384" alt="Streak Stats"/>
-</span>
 
 
 ### 🛠️ Tools
