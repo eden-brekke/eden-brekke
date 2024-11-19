@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## 🎉 &nbsp; Hey There! I’m Eden, pleased to have you here!
 
-I am a Full Stack software developer, virology research scientist, and life long learner who thrives in fast paced environments. I am passionate about science and using the power of research and technology to push for the betterment of society and the world. I want to use my knowledge and drive to push for an impactful change. My background is in microbiology and mentorship.
+I am a Full Stack Software Developer with a strong foundation in both technology and scientific research. With a background in microbiology and virology, I bring a unique perspective to problem-solving, emphasizing precision, analytical thinking, and an eagerness to innovate. I thrive in fast-paced environments, constantly pushing myself to learn and adapt, and I am passionate about leveraging research and technology to drive impactful change. My goal is to apply my technical expertise and dedication to contribute meaningfully to cutting-edge projects and organizations that aim to make a difference in society.
 
 ### 🔗 Connect with me
 I love making connections, and would like to hear from you! Reach out to me on the following Social Accounts
