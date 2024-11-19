@@ -28,47 +28,37 @@ I love making connections, and would like to hear from you! Reach out to me on t
 
 ### 💻 Languages
 ___
-<br>
 <table>
   <tr>
-    <td>
-      <div style="text-align: center;">
-        <img src="assets/python.png" width="70" alt="Python"><br>Python
-      </div>
+    <td align="center">
+      <img src="assets/python.png" width="70" alt="Python">
+      <p>Python</p>
     </td>
-    <td>
-      <div style="text-align: center;">
-        <img src="assets/js.png" width="70" alt="JavaScript"><br>JavaScript
-      </div>
+    <td align="center">
+      <img src="assets/js.png" width="70" alt="JavaScript">
+      <p>JavaScript</p>
     </td>
-    <td>
-      <div style="text-align: center;">
-        <img src="assets/Typescript_logo_2020.png" width="70" alt="TypeScript">
-        <div>TypeScript</div>
-      </div>
+    <td align="center">
+      <img src="assets/Typescript_logo_2020.png" width="70" alt="TypeScript">
+      <p>TypeScript</p>
     </td>
-    <td>
-      <div style="text-align: center;">
-        <img src="assets/html.png" width="70" alt="HTML">
-        <div>HTML</div>
-      </div>
+    <td align="center">
+      <img src="assets/html.png" width="70" alt="HTML">
+      <p>HTML</p>
     </td>
-    <td>
-      <div style="text-align: center;">
-        <img src="assets/css.png" width="70" alt="CSS">
-        <div>CSS</div>
-      </div>
+    <td align="center">
+      <img src="assets/css.png" width="70" alt="CSS">
+      <p>CSS</p>
     </td>
-    <td>
-      <div style="text-align: center;">
-        <a target="_blank" href="https://icons8.com/icon/59952/sql">
-          <img src="assets/icons8-sql-64.png" width="70" alt="SQL">
-        </a>
-        <div>SQL</div>
-      </div>
+    <td align="center">
+      <a target="_blank" href="https://icons8.com/icon/59952/sql">
+        <img src="assets/icons8-sql-64.png" width="70" alt="SQL">
+      </a>
+      <p>SQL</p>
     </td>
   </tr>
 </table>
+
 
 
 
