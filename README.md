@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## 🎉 &nbsp; Hey There! I’m Eden, pleased to have you here!
 
-I am a Full Stack Software Developer with a strong foundation in both technology and scientific research. With a background in microbiology and virology, I bring a unique perspective to problem-solving, emphasizing precision, analytical thinking, and an eagerness to innovate. I thrive in fast-paced environments, constantly pushing myself to learn and adapt, and I am passionate about leveraging research and technology to drive impactful change. My goal is to apply my technical expertise and dedication to contribute meaningfully to cutting-edge projects and organizations that aim to make a difference in society.
+I am a Full Stack Software Developer with a strong foundation in both technology and scientific research. With a background in microbiology and virology, I bring a unique perspective to problem-solving, emphasizing precision, analytical thinking, and an eagerness to innovate. I thrive in fast-paced environments, constantly pushing myself to learn and adapt, and I am passionate about leveraging research and technology to drive impactful change. My goal is to apply my technical expertise and dedication to contribute meaningfully to cutting-edge projects and organizations that aim to make a difference in society. ✨
 
 ### 🔗 Connect with me
 I love making connections, and would like to hear from you! Reach out to me on the following Social Accounts
@@ -25,6 +25,7 @@ I love making connections, and would like to hear from you! Reach out to me on t
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flatt-square&logo=gmail&logoColor=white)](mailto:eden.lorrai@gmail.com)
 [![Dev Badge](https://img.shields.io/badge/-Dev-000000?style=flat-square&logo=Dev.to&logoColor=white)](https://eden-portfolio.vercel.app/)
 
+___
 
 ### 💻 Languages
 ___
