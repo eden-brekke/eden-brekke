@@ -72,10 +72,10 @@ ___
 <div align="left" style="margin-bottom: 30px;">
   <img height="200" src="https://github-readme-stats-pi-six-31.vercel.app/api?username=eden-brekke&show_icons=true&theme=radical&card_width=320" alt="Eden's GitHub Stats"/>
 </div>
-<br>
+<!-- <br>
 <div align="left" style="margin-bottom: 30px;">
   <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=eden-brekke&theme=radical&card_width=384" alt="Streak Stats"/>
-</div>
+</div> -->
 
 ___
 
